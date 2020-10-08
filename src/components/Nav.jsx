@@ -14,8 +14,8 @@ const Nav = () => {
       >
 
       <nav>
-        <Link to="/todo">ToDo</Link>
-        <Link to="/">Archive</Link>
+        <Link to="/">ToDo</Link>
+        <Link to="/archive">Archive</Link>
       </nav>
       <span>My ToDo App</span>
       </Flex>
